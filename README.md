@@ -22,5 +22,5 @@ Similarly, if you select any episode, character, or location, the other visuals 
 If you find an episode of interest right-click on it in the **Top Episodes** or **Viewers by Season** visuals and select **Drill Through > Episode Page**. This will take you to a page with all of the episode's dialogue. These visuals will cross filter in a similar manner. i.e. Clicking on Mr. Burns will filter the dialogue and locations to only his lines and locations.
 
 ## Data Credit
-Data courtesy of Tod Schenider and William Cukierski via [Kaggle](https://www.kaggle.com/datasets/prashant111/the-simpsons-dataset)
+Data courtesy of Tod Schenider and William Cukierski via [Kaggle](https://www.kaggle.com/datasets/prashant111/the-simpsons-dataset).
 
